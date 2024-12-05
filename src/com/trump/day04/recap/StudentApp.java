@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class StudentApp {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		int result = 10/0;
 		// 무한반복을 하기 위한 반복문
 		// 1. for(;;) {}
 		// 2. while(true) {}
