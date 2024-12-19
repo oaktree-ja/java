@@ -1,4 +1,4 @@
-package com.trump.day15.project_to_study;
+package com.trump.project;
 
 public class Check {
 	
