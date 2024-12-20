@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class StudentApp {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int result = 10/0;
+		
 		// 무한반복을 하기 위한 반복문
 		// 1. for(;;) {}
 		// 2. while(true) {}
@@ -36,7 +36,7 @@ public class StudentApp {
 					System.out.println("영어 : " + eng);
 					System.out.println("수학 : " + math);
 					System.out.println("총점 : " + (kor+eng+math));
-					System.out.println("평균 : " + (kor+eng+math)/0);
+					System.out.println("평균 : " + (kor+eng+math)/(double)3);
 //					System.out.print("총점 : ");
 //					System.out.print("평균 : ");
 					break;
