@@ -74,12 +74,3 @@ public class StudentAppGuJo {
 		System.out.println(message);
 	}
 }
-
-
-
-
-
-
-
-
-

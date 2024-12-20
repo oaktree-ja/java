@@ -1,10 +1,10 @@
 package com.trump.day09.oop;
 
 public class Student {
-	String name = "";
-	int kor = 0;
-	int eng = 0;
-	int math = 0;
+	public String name = "";
+	public int kor = 0;
+	public int eng = 0;
+	public int math = 0;
 	
 	public int total() {
 		return kor+eng+math;
