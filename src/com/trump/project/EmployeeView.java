@@ -1,5 +1,5 @@
 package com.trump.project;
 
-public class CheckView {
+public class EmployeeView {
 
 }

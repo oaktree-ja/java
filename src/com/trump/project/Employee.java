@@ -1,6 +1,6 @@
 package com.trump.project;
 
-public class Check {
+public class Employee {
 	
 	/*
 	 *근무일지 확인 하는 시스템을 만드시오
@@ -10,4 +10,8 @@ public class Check {
 	 *4. 본인의 출근 시간 맞다면 y/n 입력 시스템
 	 */
 
+	
+	
+	
+	
 }
