@@ -6,6 +6,6 @@ public class Exercise_Run {
 	public static void main(String[] args) {
 		Random rand = new Random();
 		Exercise_DimArray ed = new Exercise_DimArray();
-		ed.practice4();
+		ed.practice2();
 	}
 }
