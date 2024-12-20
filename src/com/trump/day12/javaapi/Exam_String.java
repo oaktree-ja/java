@@ -1,7 +1,6 @@
 package com.trump.day12.javaapi;
-
 public class Exam_String {
-	public static void main(String[]args) {
+	public static void main(String[] args) {
 		String msg = "Hello";
 		if("Hello" == msg) // 상수풀에 있는 값을 재사용
 			System.out.println("같은 값임");
@@ -52,11 +51,6 @@ public class Exam_String {
 		// 문자열 -> 문자로 만들기
 		char word = data1.charAt(0);
 		System.out.println("문자열 -> 문자 : " + word);
-		
-		
-		
-		
-		
 		
 	}
 }
