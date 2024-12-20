@@ -15,7 +15,7 @@ public class Exam_File {
 	
 	
 		public void fileMakeEx() {
-		File fileMake = new File("/TrumpJava/src/com/trump/day16/file/new.txt");
+		File fileMake = new File("src/com/trump/day16/file/new.txt");
 		if(!fileMake.exists()) {
 			
 		

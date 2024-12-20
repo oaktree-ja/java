@@ -8,7 +8,7 @@ import java.io.Writer;
 public class Exam_Write {
 	public static void main(String[] args) {
 		try {
-			OutputStream os = new FileOutputStream("src/com/trump/day16/stream11/io/writing.txt");
+			OutputStream os = new FileOutputStream("src/com/trump/day16/stream/io/writing.txt");
 			Writer fw = new FileWriter("src/com/trump/day16/stream/io/writing2.txt");
 			
 			byte [] byteArrs = "헬로우 입출력".getBytes();
